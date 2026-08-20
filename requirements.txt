@@ -1,9 +1,10 @@
 streamlit
-tensorflow==2.19.0
-ultralytics
-opencv-python-headless
 numpy
 pandas
-pillow
+opencv-python-headless==4.10.0.84
+tensorflow
+ultralytics
+torch
+torchvision
 scikit-learn
-matplotlib
+pillow
